@@ -6,7 +6,7 @@
 
 
 
-Este repositório servirá como base para o desenvolvimento da primeira parte do trabalho integrado entre as turmas de PSW, Teste de Software, Gestão de Projetos e Arquitetura e Padrões de Software. Neste repositório será desenvolvida a aplicação e registrada sua documentação.
+Este repositório servirá como base para o desenvolvimento da primeira parte do trabalho integrado entre as turmas de PSW, Teste de Software, Gestão de Projetos e Arquitetura e Padrões de Software. Neste repositório será desenvolvida a aplicação e registrada sua documentação. Nesta equipe, fiz parte da equipe de testes, na qual pude aprender conceitos de testes de aceitação, testes de defeito, de performance, usabilidade e conceitos básicos de testes de segurança.
 
 Organizaremos os arquivos de código-fonte do projeto na seguinte estrutura.
 
